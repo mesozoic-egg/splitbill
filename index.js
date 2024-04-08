@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=()=>React.createElement("div",null," APp");ReactDOM.render(React.createElement(React.StrictMode,null,React.createElement(e,null)),document.getElementById("root"))})();
